@@ -10,7 +10,7 @@
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/elky84/py_image.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/elky84/py_image.svg)
 
-# py_image
+# py-image
 
 python image test.
 
